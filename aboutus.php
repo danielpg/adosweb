@@ -81,7 +81,7 @@
                             <p>  ADOS TELECOM disena, desarrolla, implementa y comercializa 
                                 soluciones de software para empresas publicas y privadas de los diferentes sectores 
                                 tanto industriales, comerciales y de servicios, utilizando la tecnologia como base 
-                                para garantizar productos y servicios con los mas altos est�ndares de calidad. <br></p>
+                                para garantizar productos y servicios con los mas altos estandares de calidad. <br></p>
                         </td>
                     </tr>
                     <tr>
@@ -89,7 +89,7 @@
                             <p> Asi mismo apoyar la construccion de sistemas de informacion, que permitan incrementar 
                                 el conocimiento, la productividad y competitividad empresariales; ademas soportando 
                                 nuevos modelos y conceptos de organizacion; y permitiendo a nuestros clientes competir 
-                                cadad d�a de mejor manera en un mundo cada vez mas cambiante, globalizado y competitivo. </p>
+                                cadad dia de mejor manera en un mundo cada vez mas cambiante, globalizado y competitivo. </p>
 
                         </td>        
                     </tr>

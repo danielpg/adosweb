@@ -4,7 +4,7 @@
 		
 <div>Inteligencia de Negocios</div>
 <div>Estrategias y herramientas enfocadas a la 
-administraci髇 mediante el an醠isis de datos existentes en una organizaci髇 
+administraci贸n mediante el analisis de datos existentes en una organizaci贸n 
 
 						<p class="readmore">
 							<a href="cms.php?view=bi">Ver m&aacute;s</a>
@@ -12,14 +12,14 @@ administraci髇 mediante el an醠isis de datos existentes en una organizaci髇
 </div>
 
 <div>Soluciones de Software</div>
-<div>Desarrollo, implementaci髇, implantaci髇 y soporte de soluciones integrales en tecnolog韆.
+<div>Desarrollo, implementaci贸n, implantaci贸n y soporte de soluciones integrales en tecnologia.
 						<p class="readmore">
 							<a href="cms.php?view=solutions">Ver m&aacute;s</a>
 						</p>
  </div>
 
 <div>Telecomunicaciones</div>
-<div>Implementaci髇 de soluciones de redes y telefon韆 VoIP. 
+<div>Implementaci贸n de soluciones de redes y telefonia VoIP. 
 						<p class="readmore">
 							<a href="cms.php?view=telecom">Ver m&aacute;s</a>
 						</p>

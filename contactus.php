@@ -49,8 +49,8 @@ $error = 0;
 
 		
 		
-			Av. Melgarejo N° 629  Urb. Santa Patricia<br>
-			La Molina – Lima 12 - Per&uacute;<br>
+			Av. Melgarejo N 629  Urb. Santa Patricia<br>
+			La Molina , Lima 12 - Per&uacute;<br>
 			Telf. 7856360<br>
 			&#118;&#101;&#110;&#116;&#097;&#115;&#064;&#097;&#100;&#111;&#115;&#116;&#101;&#108;&#101;&#099;&#111;&#109;&#046;&#099;&#111;&#109;<br><br>
 
@@ -74,7 +74,7 @@ $error = 0;
                            <td> <input type='text' name='empresa' size='45' maxlength='60' value="<?php echo isset($_POST["empresa"])?$_POST["empresa"]:"" ?>" id='nombre'  id='empresa' style="width:340px;"></td>
                        </tr>
                        <tr>
-                           <td align='left' width='20%'>*Teléfono</td>
+                           <td align='left' width='20%'>*Telefono</td>
                            <td> <input type='text' name='telefono' size='45' maxlength='60' value="<?php echo isset($_POST["telefono"])?$_POST["telefono"]:"" ?>" id='nombre'  id='telefono' style="width:340px;"></td>
                        </tr>
 
@@ -83,7 +83,7 @@ $error = 0;
                            <td> <input type='text' name='celular' size='45' maxlength='60' value="<?php echo isset($_POST["celular"])?$_POST["celular"]:"" ?>" id='nombre'  id='celular' style="width:340px;"></td>
                        </tr>
                        <tr>
-                           <td align='left' width='22%'>*Correo Electrónico</td>
+                           <td align='left' width='22%'>*Correo Electronico</td>
                            <td> <input type='text' name='correo' size='45' maxlength='60' value="<?php echo isset($_POST["correo"])?$_POST["correo"]:"" ?>" id='nombre'  id='correo' style="width:340px;"></td>
 
                        </tr>

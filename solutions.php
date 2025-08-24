@@ -9,24 +9,24 @@
 			</div>
 		<p>
 Desarrollamos software en diferentes plataformas
- y lenguajes. Desarrollo, implementaci髇, implantaci髇 y soporte de 
- aplicaciones en tecnolog韆 Cliente/Servidor e Internet; prestando 
+ y lenguajes. Desarrollo, implementaci贸n, implantaci贸n y soporte de 
+ aplicaciones en tecnologia Cliente/Servidor e Internet; prestando 
  servicios a los sectores Comercial, Financiero, Gobierno, de Servicios
  y Educativo. Ofrecemos a nuestros clientes una gama de servicios de postventa, 
- soporte presencial, soporte telef髇ico, capacitaci髇 y respaldo t閏nico, 
+ soporte presencial, soporte telef贸nico, capacitaci贸n y respaldo tecnico, 
  con nuevas ideas creativas y soluciones a los problemas de forma inmediata.
  </p>
 
  	<p>
-Adem醩 de un respaldo oportuno por v韆 telef髇ica o presencial, 
+Ademas de un respaldo oportuno por via telef贸nica o presencial, 
 con ingenieros altamente calificados que se encargan de dar una
- respuesta inmediata a los problemas m醩 frecuentes.
+ respuesta inmediata a los problemas mas frecuentes.
 </p>
  
  	<p>
- considera de gran importancia la investigaci髇 y desarrollo
+ considera de gran importancia la investigaci贸n y desarrollo
  como estrategia para aumentar su competitividad y ofrecer a sus 
- clientes soluciones con tecnolog韆 de punta. Por esta raz髇, nuestros 
- productos incorporan las 鷏timas tecnolog韆s disponibles permitiendo 
- a nuestros clientes beneficiarse de los 鷏timos avances tecnol骻icos. 
+ clientes soluciones con tecnologia de punta. Por esta raz贸n, nuestros 
+ productos incorporan las ultimas tecnologias disponibles permitiendo 
+ a nuestros clientes beneficiarse de los ultimos avances tecnol贸gicos. 
  </p>
